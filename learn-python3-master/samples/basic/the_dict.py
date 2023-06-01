@@ -8,7 +8,7 @@ d = {
 }
 d['Allan'] = '34'
 print(d)
-print('d[\'Michael\'] =', d['Michael'])
-print('d[\'Bob\'] =', d['Bob'])
-print('d[\'Tracy\'] =', d['Tracy'])
+print('d[\'Michael\'] =', d['Allan'])
+print('d[\'Bob\'] =', d['Alana'])
+print('d[\'Tracy\'] =', d['Pedo'])
 print('d.get(\'Thomas\', -1) =', d.get('Thomas', -1))
