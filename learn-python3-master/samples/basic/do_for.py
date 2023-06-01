@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 names = ['Michael', 'Bob', 'Tracy', 'Allan', 'Jenkins']
 for name in names:
-    print(name)
+    print(name + '-',end =" ")
 
-for x in range(10):
+for x in range(100):
     print("Los numeros de ciclo son: ",x+1)
