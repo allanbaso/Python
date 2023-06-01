@@ -4,7 +4,7 @@
 # 计算1+2+3+...+100:
 sum = 0
 n = 1
-while n <= 500:
+while n <= 5000:
     sum = sum + n
     n = n + 1
 print(sum)
@@ -12,7 +12,7 @@ print(sum)
 # 计算1x2x3x...x100:
 acc = 1
 n = 1
-while n <= 100:
+while n <= 1000:
     acc = acc * n
     n = n + 1
 print(acc)
